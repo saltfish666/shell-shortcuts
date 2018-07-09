@@ -1,0 +1,5 @@
+#!/bin/bash
+commitizen init cz-conventional-changelog --save --save-exact
+
+# init `git cz` config
+# see http://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html

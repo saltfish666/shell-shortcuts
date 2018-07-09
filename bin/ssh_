@@ -1,0 +1,4 @@
+#!/bin/bash
+ssh -o serveraliveinterval=60 root@178.128.0.181
+
+# quick login to my romote server
